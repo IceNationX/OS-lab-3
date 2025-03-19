@@ -1,8 +1,4 @@
-/*      Rida Siddiqi -100825212
-	Ishmeet kaur -100809450
- 	Muhammad Mujtaba Madad -100790195
- 	-
- */
+/* Group 13  */
  
 #include <stdio.h>
 #include <stdlib.h>
