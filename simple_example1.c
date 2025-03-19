@@ -1,5 +1,9 @@
-/* Group 13  */
-
+/* 
+Mohammad Al-Lozy, 100829387
+Faisal Akbar, 100846786
+Alexy Pichette, 100822470
+CRN: 74025
+*/
 #include <pthread.h>
 #include <stdio.h>
 #include <unistd.h>
